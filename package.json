@@ -1,0 +1,27 @@
+{
+  "name": "familyhome_hue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaBenmessaoud/FamilyHome_Hue.git"
+  },
+  "author": "HamzaBenmessaoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamzaBenmessaoud/FamilyHome_Hue/issues"
+  },
+  "homepage": "https://github.com/HamzaBenmessaoud/FamilyHome_Hue#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cie-rgb-color-converter": "^1.0.2",
+    "express": "^4.17.1",
+    "hex-rgb": "^4.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
